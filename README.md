@@ -13,15 +13,13 @@
 
 ## About Me
 
-I'm a final-year Computer Science student at the **University of Sindh** and founder of **HRA Tech Solutions**. Over the past 2+ years I've built and shipped production software for real clients across Pakistan and internationally — independently, from concept to deployment.
+I'm a final-year Computer Science student at the **University of Sindh** and worked at **HRA Tech Solutions**. Over the past 2+ years I've built and shipped production software for real clients across Pakistan and internationally — independently, from concept to deployment.
 
 I don't just write code. I understand the business first, then shape the software around how it actually works.
 
 - 🌍 Based in **Badin, Sindh, Pakistan**
-- 🎓 Final Year **BSCS — University of Sindh** (2022–2026)
-- 💼 Founder — **HRA Tech Solutions**
-- 🚀 Currently building **SmartGate** — AI face recognition access control (FYP)
-- 🌱 Learning **n8n workflow automation** and **Docker**
+- 🎓 Final Year **BSCS — University of Sindh** (2023–2027)
+- 💼 Experience — **HRA Tech Solutions**
 - 📬 Reach me at **alighulamhussain007@gmail.com**
 
 ---
@@ -35,7 +33,6 @@ I don't just write code. I understand the business first, then shape the softwar
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 **Backend**
 
