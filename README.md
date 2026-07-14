@@ -90,6 +90,50 @@ Full e-commerce platform built for an international client in South Africa. Ship
 
 ---
 
+### 💳 FinSight AI — Bank Statement Intelligence Platform
+> **Type:** AI-Powered Financial Analytics Platform
+
+AI-powered platform that transforms uploaded bank statements into structured financial insights. Automatically extracts transactions, categorizes spending, detects unusual activity, and generates easy-to-understand financial summaries using LLMs. End-to-end automation is powered by n8n, delivering scheduled reports and anomaly alerts without manual intervention.
+
+**Features:** AI transaction categorization · Bank statement parsing · Spending analytics · Multi-account support · AI-generated financial summaries · Daily anomaly detection · Weekly automated insights · Custom ledger dashboard
+
+**Stack:** `Next.js` `TypeScript` `Node.js` `Express` `PostgreSQL` `OpenRouter AI` `n8n` `Recharts`
+
+---
+
+### 🤖 PostCraft AI — Chrome Extension
+> **Type:** Chrome Extension · Beta tested with real users · 86/100 quality score
+
+AI-powered Chrome extension that analyzes and optimizes LinkedIn posts in real-time. Integrated LLM via OpenRouter for intelligent content enhancement.
+
+**Features:** Real-time post scoring · AI rewrite suggestions · Analytics & history tracking · User management
+
+**Stack:** `NestJS` `PostgreSQL` `Prisma` `Llama 3.1` `OpenRouter`
+
+---
+
+### 🔐 SmartGate — AI Access Control System
+> **Type:** Final Year Project (In Development)
+
+AI-powered face recognition system for automated attendance tracking and physical access control. Real-time check-in/check-out via face scan with a live admin dashboard.
+
+**Features:** Face enrollment & recognition · Real-time entry/exit tracking · Occupancy monitoring · Activity logs · Entry point management · Admin dashboard
+
+**Stack:** `React` `Node.js` `Express` `PostgreSQL` `face-api.js` `TensorFlow`
+
+---
+
+### 🏫 School Management SaaS eduktion.org
+> **Type:** Cloud-Based Multi-Tenant SaaS · Running in institutions
+
+Cloud-based school management platform serving multiple institutions. Multi-tenant architecture with isolated data per school, role-based portals, and offline-capable PWA.
+
+**Features:** Multi-tenant architecture · Admin / Teacher / Student / Parent portals · Fee management · Attendance · Academic records · Document uploads · PWA
+
+**Stack:** `React` `Node.js` `PostgreSQL` `PWA`
+
+---
+
 ### 🌾 Baba Flour Mill Management System
 > **Type:** Offline Desktop App · Running in production
 
@@ -112,17 +156,6 @@ Complete institutional management system deployed and actively used at Kashaf In
 
 ---
 
-### 🏫 School Management SaaS
-> **Type:** Cloud-Based Multi-Tenant SaaS · Running in institutions
-
-Cloud-based school management platform serving multiple institutions. Multi-tenant architecture with isolated data per school, role-based portals, and offline-capable PWA.
-
-**Features:** Multi-tenant architecture · Admin / Teacher / Student / Parent portals · Fee management · Attendance · Academic records · Document uploads · PWA
-
-**Stack:** `React` `Node.js` `PostgreSQL` `PWA`
-
----
-
 ### 💊 Pharmacy Management System
 > **Type:** Running in a local hospital pharmacy in Badin
 
@@ -131,28 +164,6 @@ Complete POS and inventory system built for a hospital pharmacy. Handles the cri
 **Features:** FEFO batch & expiry tracking · Sales POS · Thermal receipt printing · Credit sales management · Supplier invoicing · Stock management · Multi-payment modes
 
 **Stack:** `React` `Node.js` `MySQL` `SQLite`
-
----
-
-### 🔐 SmartGate — AI Access Control System
-> **Type:** Final Year Project (In Development)
-
-AI-powered face recognition system for automated attendance tracking and physical access control. Real-time check-in/check-out via face scan with a live admin dashboard.
-
-**Features:** Face enrollment & recognition · Real-time entry/exit tracking · Occupancy monitoring · Activity logs · Entry point management · Admin dashboard
-
-**Stack:** `React` `Node.js` `Express` `PostgreSQL` `face-api.js` `TensorFlow`
-
----
-
-### 🤖 PostCraft AI — Chrome Extension
-> **Type:** Chrome Extension · Beta tested with real users · 86/100 quality score
-
-AI-powered Chrome extension that analyzes and optimizes LinkedIn posts in real-time. Integrated LLM via OpenRouter for intelligent content enhancement.
-
-**Features:** Real-time post scoring · AI rewrite suggestions · Analytics & history tracking · User management
-
-**Stack:** `NestJS` `PostgreSQL` `Prisma` `Llama 3.1` `OpenRouter`
 
 ---
 
