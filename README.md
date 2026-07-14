@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-ghulam-hussain-408b4225a)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alighulamhussain007@gmail.com)
-[![Portfolio](https://img.shields.io/badge/BS_Traders-Live_Project-6E8BFF?style=for-the-badge)](https://bstraders.shop)
+[![Portfolio](https://img.shields.io/badge/Portfolio-alighulam.eduktion.org-6E8BFF?style=for-the-badge)](https://alighulam.eduktion.org)
 
 </div>
 
@@ -194,9 +194,10 @@ Complete POS and inventory system built for a hospital pharmacy. Handles the cri
 
 | | |
 |---|---|
+| 🌐 Portfolio | https://alighulam.eduktion.org |
 | 📧 Email | alighulamhussain007@gmail.com |
-| 💼 LinkedIn | [ali-ghulam-hussain-408b4225a](https://linkedin.com/in/ali-ghulam-hussain-408b4225a) |
-| 📱 Phone | +923163765386 |
+| 💼 LinkedIn | https://linkedin.com/in/ali-ghulam-hussain-408b4225a |
+| 📱 Phone | +92 316 3765386 |
 
 </div>
 
