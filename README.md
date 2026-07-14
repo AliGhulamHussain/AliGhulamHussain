@@ -56,6 +56,11 @@ I don't just write code. I understand the business first, then shape the softwar
 ![face-api.js](https://img.shields.io/badge/face--api.js-FF6B6B?style=for-the-badge)
 ![Llama 3.1](https://img.shields.io/badge/Llama_3.1-6E8BFF?style=for-the-badge)
 
+**AI & Automation**
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter_AI-6E8BFF?style=for-the-badge)
+
 **DevOps & Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -63,6 +68,9 @@ I don't just write code. I understand the business first, then shape the softwar
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0A66C2?style=for-the-badge)
+![Wrangler](https://img.shields.io/badge/Wrangler-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ---
 
