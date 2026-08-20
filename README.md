@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-ghulam-hussain-408b4225a)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alighulamhussain007@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-alighulam.eduktion.org-6E8BFF?style=for-the-badge)](https://alighulam.eduktion.org)
+[![Portfolio](https://img.shields.io/badge/BS_Traders-Live_Project-6E8BFF?style=for-the-badge)](https://bstraders.shop)
 
 </div>
 
@@ -13,13 +13,15 @@
 
 ## About Me
 
-I'm a final-year Computer Science student at the **University of Sindh** and worked at **HRA Tech Solutions**. Over the past 2+ years I've built and shipped production software for real clients across Pakistan and internationally — independently, from concept to deployment.
+I'm a final-year Computer Science student at the **University of Sindh** and founder of **HRA Tech Solutions**. Over the past 2+ years I've built and shipped production software for real clients across Pakistan and internationally — independently, from concept to deployment.
 
 I don't just write code. I understand the business first, then shape the software around how it actually works.
 
 - 🌍 Based in **Badin, Sindh, Pakistan**
-- 🎓 Final Year **BSCS — University of Sindh** (2023–2027)
-- 💼 Experience — **HRA Tech Solutions**
+- 🎓 Final Year **BSCS — University of Sindh** (2022–2026)
+- 💼 Founder — **HRA Tech Solutions**
+- 🚀 Currently building **SmartGate** — AI face recognition access control (FYP)
+- 🌱 Learning **n8n workflow automation** and **Docker**
 - 📬 Reach me at **alighulamhussain007@gmail.com**
 
 ---
@@ -33,6 +35,7 @@ I don't just write code. I understand the business first, then shape the softwar
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 **Backend**
 
@@ -56,11 +59,6 @@ I don't just write code. I understand the business first, then shape the softwar
 ![face-api.js](https://img.shields.io/badge/face--api.js-FF6B6B?style=for-the-badge)
 ![Llama 3.1](https://img.shields.io/badge/Llama_3.1-6E8BFF?style=for-the-badge)
 
-**AI & Automation**
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/OpenRouter_AI-6E8BFF?style=for-the-badge)
-
 **DevOps & Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -68,9 +66,6 @@ I don't just write code. I understand the business first, then shape the softwar
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0A66C2?style=for-the-badge)
-![Wrangler](https://img.shields.io/badge/Wrangler-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ---
 
@@ -98,50 +93,6 @@ Full e-commerce platform built for an international client in South Africa. Ship
 
 ---
 
-### 💳 FinSight AI — Bank Statement Intelligence Platform
-> **Type:** AI-Powered Financial Analytics Platform
-
-AI-powered platform that transforms uploaded bank statements into structured financial insights. Automatically extracts transactions, categorizes spending, detects unusual activity, and generates easy-to-understand financial summaries using LLMs. End-to-end automation is powered by n8n, delivering scheduled reports and anomaly alerts without manual intervention.
-
-**Features:** AI transaction categorization · Bank statement parsing · Spending analytics · Multi-account support · AI-generated financial summaries · Daily anomaly detection · Weekly automated insights · Custom ledger dashboard
-
-**Stack:** `Next.js` `TypeScript` `Node.js` `Express` `PostgreSQL` `OpenRouter AI` `n8n` `Recharts`
-
----
-
-### 🤖 PostCraft AI — Chrome Extension
-> **Type:** Chrome Extension · Beta tested with real users · 86/100 quality score
-
-AI-powered Chrome extension that analyzes and optimizes LinkedIn posts in real-time. Integrated LLM via OpenRouter for intelligent content enhancement.
-
-**Features:** Real-time post scoring · AI rewrite suggestions · Analytics & history tracking · User management
-
-**Stack:** `NestJS` `PostgreSQL` `Prisma` `Llama 3.1` `OpenRouter`
-
----
-
-### 🔐 SmartGate — AI Access Control System
-> **Type:** Final Year Project (In Development)
-
-AI-powered face recognition system for automated attendance tracking and physical access control. Real-time check-in/check-out via face scan with a live admin dashboard.
-
-**Features:** Face enrollment & recognition · Real-time entry/exit tracking · Occupancy monitoring · Activity logs · Entry point management · Admin dashboard
-
-**Stack:** `React` `Node.js` `Express` `PostgreSQL` `face-api.js` `TensorFlow`
-
----
-
-### 🏫 School Management SaaS eduktion.org
-> **Type:** Cloud-Based Multi-Tenant SaaS · Running in institutions
-
-Cloud-based school management platform serving multiple institutions. Multi-tenant architecture with isolated data per school, role-based portals, and offline-capable PWA.
-
-**Features:** Multi-tenant architecture · Admin / Teacher / Student / Parent portals · Fee management · Attendance · Academic records · Document uploads · PWA
-
-**Stack:** `React` `Node.js` `PostgreSQL` `PWA`
-
----
-
 ### 🌾 Baba Flour Mill Management System
 > **Type:** Offline Desktop App · Running in production
 
@@ -164,6 +115,17 @@ Complete institutional management system deployed and actively used at Kashaf In
 
 ---
 
+### 🏫 School Management SaaS
+> **Type:** Cloud-Based Multi-Tenant SaaS · Running in institutions
+
+Cloud-based school management platform serving multiple institutions. Multi-tenant architecture with isolated data per school, role-based portals, and offline-capable PWA.
+
+**Features:** Multi-tenant architecture · Admin / Teacher / Student / Parent portals · Fee management · Attendance · Academic records · Document uploads · PWA
+
+**Stack:** `React` `Node.js` `PostgreSQL` `PWA`
+
+---
+
 ### 💊 Pharmacy Management System
 > **Type:** Running in a local hospital pharmacy in Badin
 
@@ -175,6 +137,49 @@ Complete POS and inventory system built for a hospital pharmacy. Handles the cri
 
 ---
 
+### 🔐 SmartGate — AI Access Control System
+> **Type:** Final Year Project (In Development)
+
+AI-powered face recognition system for automated attendance tracking and physical access control. Real-time check-in/check-out via face scan with a live admin dashboard.
+
+**Features:** Face enrollment & recognition · Real-time entry/exit tracking · Occupancy monitoring · Activity logs · Entry point management · Admin dashboard
+
+**Stack:** `React` `Node.js` `Express` `PostgreSQL` `face-api.js` `TensorFlow`
+
+---
+
+### 🤖 PostCraft AI — Chrome Extension
+> **Type:** Chrome Extension · Beta tested with real users · 86/100 quality score
+
+AI-powered Chrome extension that analyzes and optimizes LinkedIn posts in real-time. Integrated LLM via OpenRouter for intelligent content enhancement.
+
+**Features:** Real-time post scoring · AI rewrite suggestions · Analytics & history tracking · User management
+
+**Stack:** `NestJS` `PostgreSQL` `Prisma` `Llama 3.1` `OpenRouter`
+
+---
+
+### 🍽️ Restaurant Management System
+> **Type:** Offline single-operator system
+
+Complete restaurant management system for a local restaurant client. Handles the full daily workflow from order taking to end-of-day reporting.
+
+**Features:** Order & menu management · Expense tracking · Salary management · Daily / weekly / yearly analytics
+
+**Stack:** `React` `Node.js` `PostgreSQL`
+
+---
+
+### 🏪 QuickPOS — Retail POS System
+> **Type:** Full-Stack POS Application
+
+Feature-complete point of sale system for small retail businesses. Includes rich analytics with live charts, automated invoicing, and thermal receipt support.
+
+**Features:** Billing with auto invoice numbering · Inventory & restocking · Expense module · Bar/pie chart analytics · Thermal receipt printing
+
+**Stack:** `Next.js` `Express` `MongoDB` `Recharts`
+
+---
 
 ## 📊 GitHub Stats
 
@@ -194,10 +199,10 @@ Complete POS and inventory system built for a hospital pharmacy. Handles the cri
 
 | | |
 |---|---|
-| 🌐 Portfolio | https://alighulam.eduktion.org |
 | 📧 Email | alighulamhussain007@gmail.com |
-| 💼 LinkedIn | https://linkedin.com/in/ali-ghulam-hussain-408b4225a |
-| 📱 Phone | +92 316 3765386 |
+| 💼 LinkedIn | [ali-ghulam-hussain-408b4225a](https://linkedin.com/in/ali-ghulam-hussain-408b4225a) |
+| 🌐 Live Project | [bstraders.shop](https://bstraders.shop) |
+| 📱 Phone | +923163765386 |
 
 </div>
 
